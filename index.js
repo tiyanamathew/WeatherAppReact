@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import WeekTwo from "./WeekTwo";
+import WeekTwo from "WeekTwo";
 
 import "./App.css";
 
